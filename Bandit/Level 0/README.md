@@ -33,9 +33,9 @@ ssh -p 2220 bandit.labs.overthewire.org
 ## Solution - Part 2
 
 ```
-ls
+bandit0@bandit:~$ ls
 readme
 ```
 ```
-cat readme
+bandit0@bandit:~$ cat readme
 ```
