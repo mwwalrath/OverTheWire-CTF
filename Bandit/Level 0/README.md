@@ -6,5 +6,5 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 [ssh(1) - Linux man page](https://linux.die.net/man/1/ssh)
 ## Solution
 ```
-ssh bandit0@bandit.labs.overthewire.org -p 2220
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
 ```
