@@ -2,7 +2,7 @@
 
 **Hostname:** bandit.labs.overthewire.org
 
-**Username:** bandit 5
+**Username:** bandit5
 
 **Password:** koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
