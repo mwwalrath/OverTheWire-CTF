@@ -27,7 +27,7 @@ cat - concatenate files and print on the standard output
 **Password:** bandit0
 
 ```
-ssh -p 2220 bandit.labs.overthewire.org
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
 ```
 
 ## Solution - Part 2
