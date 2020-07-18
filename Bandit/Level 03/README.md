@@ -22,7 +22,10 @@ ls - list directory contents
 cat - concatenate files and print on the standard output
 
 ## Solution
-
+```
+bandit3@bandit:~$ ls
+inhere
+```
 ```
 bandit3@bandit:~$ ls -a inhere
 .  ..  .hidden
