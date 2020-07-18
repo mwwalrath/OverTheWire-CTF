@@ -22,10 +22,10 @@ The password for the next level is stored in a file somewhere under the inhere d
 ls - list directory contents
 
 find - search for files in a directory hierarchy
-- **-executable**  Matches  files  which  are  executable.
 - **-readable** Matches files which are readable.
-- **-size n[cwbkMG]** File uses *n* units of space, rounding up.
+- **-size _n[cwbkMG]_** File uses *n* units of space, rounding up.
   - *c* for bytes
+- - **-executable**  Matches  files  which  are  executable.
 
 cat - concatenate files and print on the standard output
 
