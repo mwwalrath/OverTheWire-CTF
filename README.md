@@ -1,3 +1,4 @@
-## [OverTheWire](https://overthewire.org/wargames/)
-### Wargames
-- [Bandit](https://overthewire.org/wargames/bandit/)
+#OverTheWire Wargames
+https://overthewire.org/wargames
+## Bandit
+https://overthewire.org/wargames/bandit/
