@@ -25,7 +25,7 @@ find - search for files in a directory hierarchy
 - **-readable** Matches files which are readable.
 - **-size _n[cwbkMG]_** File uses *n* units of space, rounding up.
   - *c* for bytes
-- - **-executable**  Matches  files  which  are  executable.
+- **-executable**  Matches  files  which  are  executable.
 
 cat - concatenate files and print on the standard output
 
