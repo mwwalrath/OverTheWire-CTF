@@ -18,8 +18,6 @@ The password for the next level is stored in the file data.txt next to the word 
 
 ls - list directory contents
 
-cat - concatenate files and print on the standard output
-
 grep - print lines matching a pattern
 
 ## Solution
@@ -29,5 +27,5 @@ bandit7@bandit:~$ ls
 data.txt
 ```
 ```
-bandit7@bandit:~$ cat data.txt | grep millionth
+bandit7@bandit:~$ grep millionth data.txt
 ```
