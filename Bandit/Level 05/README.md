@@ -41,4 +41,5 @@ inhere/maybehere07/.file2
 ```
 ```
 bandit5@bandit:~$ cat inhere/maybehere07/.file2
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 ```
