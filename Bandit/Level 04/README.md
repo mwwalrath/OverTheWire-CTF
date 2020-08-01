@@ -44,4 +44,5 @@ inhere/-file09: data
 
 ```
 bandit4@bandit:~$ cat inhere/-file07
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 ```
